@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i");
+
+:root {
+  /* Brand colors */
+  --brand-primary: #ffe95f;
+  --brand-primary--inverted: #ffe95f;
+  --brand-secondary: #76afc1;
+  --brand-secondary--inverted: #222222;
+  /* Typography */
+  --font-family-base: "Lato";
+  --font-size-base: 18px;
+  --text-color: var(--brand-secondary--inverted);
+  /* Main Navigation */
+  --main-navigation-color: var(--brand-secondary);
+  --main-navigation-color--inverted: var(--brand-secondary--inverted);
+}
